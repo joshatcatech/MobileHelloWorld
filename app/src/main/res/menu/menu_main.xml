@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/logoutDevice" android:title="@string/logoff_app"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/deregDevice" android:title="@string/dereg_device"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/destroyTokens" android:title="@string/destroy_tokens"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

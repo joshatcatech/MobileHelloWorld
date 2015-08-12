@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mobile SDK Tester</string>
+    <string name="test_text">Test</string>
+    <string name="clear_text">Clear</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="onclick_clear"></string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">
+        <![CDATA[
+
+
+            This sample app uses the Mobile SDK to access a protected endpoint.
+            \n\nClick <Test> to begin.
+
+        ]]>
+    </string>
+
+    <string name="logoff_app">Logoff App</string>
+    <string name="logout_device">Logout Device</string>
+    <string name="dereg_device">Deregister Device</string>
+    <string name="destroy_tokens">Destroy Tokens</string>
+    <string name="success_msg">Success!</string>
+    <string name="failure_msg">Operation Failed</string>
+</resources>
+
